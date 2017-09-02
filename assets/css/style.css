@@ -102,10 +102,11 @@ section {
     HEADER STYLES
 ==================================================*/
 .head-main {
-    font-size:120px !important;
+    font-size:8vw !important;
     font-weight:900!important;
     color:#fff!important;
-    padding:200px 20px 20px 20px;
+    padding:15vw 1vw 1vw 0vw;
+    /*padding:200px 20px 20px 20px;*/
 }
 .head-sub-main {
     font-size:40px !important;
